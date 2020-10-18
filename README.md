@@ -9,4 +9,5 @@ Dataset used: https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europ
 3. Fasttext
 4. Bert + CNN
 5. Bert + RNN
+6. ELMO + CNN + RNN + RMDL
 
