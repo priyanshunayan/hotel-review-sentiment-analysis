@@ -33,5 +33,7 @@ Here is the colab link of all code-
 ## Text techonlogies comparison report - 
 https://docs.google.com/document/d/1ygtTUgWqI61iMYbUV3zfLPHNA92sIefFnjtltoN0sFo/edit?usp=sharing
 
-## Reference Code - https://drive.google.com/file/d/1G5GeZNSXbGlu_f_wPXtbQemz7EIbSZI3/view?usp=sharing
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Reference Code - https://drive.google.com/file/d/1G5GeZNSXbGlu_f_wPXtbQemz7EIbSZI3/view?usp=sharing
 
