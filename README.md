@@ -1,11 +1,12 @@
 # Sentiment Analysis of Hotel Reviews
 
 We have done sentiment analysis as a part of Minor Project -
-1. text dataset with Fastext, Elmo and Bert embedding, and trained with CNN,RNN,RMDL,HAN and Multi-channel CNN.
+1. text dataset with Fastext, Elmo and Bert embedding, and trained with CNN,RNN,RMDL,HAN and Multi-channel CNN and RNN.
 2. image dataset sentiment analysis with CNN.
 
 ## Dataset we have used -
-https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
+https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe (text reviews)
+https://data.world/crowdflower/image-sentiment-polarity (image reviews)
 
 Here is the colab link of all code-
 ### Text
@@ -32,5 +33,5 @@ Here is the colab link of all code-
 ## Text techonlogies comparison report - 
 https://docs.google.com/document/d/1ygtTUgWqI61iMYbUV3zfLPHNA92sIefFnjtltoN0sFo/edit?usp=sharing
 
-## Reference Code - Added by Priyanshu
+## Reference Code - https://drive.google.com/file/d/1G5GeZNSXbGlu_f_wPXtbQemz7EIbSZI3/view?usp=sharing
 
